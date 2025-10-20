@@ -1,0 +1,66 @@
+[
+    {
+        "titulo": "Kimesai",
+        "categoria": "diseño textil",
+        "imagen": "#",
+        "description": "Proyecto inspirado en la película Nauticaa, que incorpora un personaje imaginario.",
+        "alt": "Proyecto 1"
+    },
+
+    {
+        "titulo": "Picnic",
+        "categoria": "diseño de experiencias",
+        "video": "#",
+        "description": "¿Cómo se come cuando la disparidad lo hace todo tambalear?",
+        "alt": "Proyecto 2"
+    },
+
+    {
+        "titulo": "WIM",
+        "categoria": "diseño estratégico y textil",
+        "imagen": "#",
+        "description": "Producto diseñado para reducir la fatiga en conductores de micro.",
+        "alt": "Proyecto 3"
+    },
+
+    {
+        "titulo": "Crick-Crack",
+        "categoria": "diseño de juguetes",
+        "imagen": "#",
+        "description": "Colaboración con La Papelaria, con el propósito de brindar apoyo a niños con desafíos en el desarrollo de la motricidad fina.",
+        "alt": "Proyecto 4"
+    },
+
+    {
+        "titulo": "Ecos",
+        "categoria": "diseño de experiencias",
+        "imagen": "#",
+        "description": "Colaboración con el Hogar de Cristo, con el propósito de promover la expresión creativa de sus residentes.",
+        "alt": "Proyecto 5"
+    },
+
+    {
+        "titulo": "DONGUI",
+        "categoria": "diseño de productos",
+        "imagen": "#",
+        "description": "¡Pélalo como un plátano!",
+        "alt": "Proyecto 6"
+    },
+
+    {
+        "titulo": "Book",
+        "categoria": "diseño editorial",
+        "imagen": "#",
+        "description": "Revista Recopilatoria.",
+        "alt": "Proyecto 7"
+    },
+
+    {
+        "titulo": "Azanita",
+        "categoria": "diseño de productos",
+        "imagen": "#",
+        "description": "Colaboración con CáscaraFoods, con el propósito de rediseñar estratégicamente sus productos.",
+        "alt": "Proyecto 8"
+    }
+]
+
