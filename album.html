@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es" data-bs-theme="dark">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Portafolio</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous" />
+        <meta name="theme-color" content="#712cf9" />
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+    </head>
+    <body>
+        <header data-bs-theme="dark">
+            <div class="collapse text-bg-dark" id="navbarHeader">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-8 col-md-7 py-4">
+                            <h4>Matilde Flores Villarroel</h4>
+                            <p class="text-body-secondary">
+                                Estudiante de Tercer año de Diseño Integral UC
+                            </p>
+                            <h5>CONTACTO</h5>
+                            <ul class="list-unstyled">
+                                <li><a href="https://www.instagram.com/matildeflv/?hl=es-la" class="text-light">instagram</a></li>
+                                <li><a href="mailto:matilde.flores@uc.cl" class="text-light">mail</a></li>
+                                <li><a href="https://www.linkedin.com/in/matilde-flores-villarroel-8440b5348/" class="text-light">linkedin</a></li>
+                            </ul>
+                        </div>
+                         <div class="col-sm-4 <!--offset-md-1--> py-4"> 
+                            <h4 class="ms-2">HABILIDADES</h4>
+                            <table id="aqui" class="table"></table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="navbar navbar-dark bg-dark shadow-sm">
+                <div class="container">
+                    <a href="#" class="navbar-brand d-flex align-items-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="me-2" viewBox="0 0 24 24">
+                            <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path>
+                            <circle cx="12" cy="13" r="4"></circle>
+                        </svg>
+                        <strong>☆ ☆ ☆</strong>
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+        </header>
+        <main>
+            <section class="py-5 text-center container">
+                <div class="row py-lg-5">
+                    <div class="col-lg-6 col-md-8 mx-auto">
+                        <h1 class="fw-light">Matilde Flores Villarroel</h1>
+                        <p class="lead text-body-secondary">Diseño Integral 🇨🇱</p>
+                        <p><a href="#" class="btn btn-primary my-2">página principal</a> <a href="#" class="btn btn-secondary my-2">información</a></p>
+                    </div>
+                </div>
+            </section>
+            <div class="album py-5 bg-dark">
+                <div class="container">
+                    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3" id="porotito"></div>
+                </div>
+            </div>
+        </main>
+        <footer class="text-body-secondary py-5">
+            <div class="container">
+                <p class="float-end mb-1"><a href="#">up!</a></p>
+                <p class="mb-1">© Matilde Flores Villarroel 2023 - 2025</p>
+                <!-- <p class="mb-0">New to Bootstrap? <a href="/">Visit the homepage</a> or read our <a href="/docs/5.3/getting-started/introduction">getting started guide</a>.</p> -->
+            </div>
+        </footer>
+        
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+        <script src="script.js"></script>
+        <script>
+            const habilidades = [
+                {programa: "photoshop", valor:"50"},
+                {programa: "figma", valor:"30"},
+                {programa: "illustrator", valor:"80"},
+                {programa: "indesign", valor:"55"},
+            ];
+
+            const donde = document.querySelector("#aqui");
+
+            habilidades.forEach((h) => {
+                donde.innerHTML += `<tr>
+                                    <td class="w-25">${h.programa}</td>
+                                    <td>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 5">
+                                        <rect width="${h.valor}" height="5" rx="1" ry="1" fill="white"/>
+                                    </svg>
+                                    </td>
+                                </tr>`;
+            });
+
+
+        </script>
+    </body>
+</html>
