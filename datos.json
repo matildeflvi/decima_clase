@@ -8,14 +8,6 @@
     },
 
     {
-        "titulo": "Picnic",
-        "categoria": "diseño de experiencias",
-        "video": "https://matildeflvi.github.io/decima_clase/img/picnicpicnic.png",
-        "description": "¿Cómo se come cuando la disparidad lo hace todo tambalear?",
-        "alt": "Proyecto 2"
-    },
-
-    {
         "titulo": "WIM",
         "categoria": "diseño estratégico y textil",
         "imagen": "https://matildeflvi.github.io/decima_clase/img/wimfinal.png",
@@ -63,6 +55,7 @@
         "alt": "Proyecto 8"
     }
 ]
+
 
 
 
