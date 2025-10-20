@@ -10,7 +10,7 @@
     {
         "titulo": "Picnic",
         "categoria": "diseño de experiencias",
-        "video": "https://matildeflvi.github.io/decima_clase/img/picnic.png",
+        "video": "https://matildeflvi.github.io/decima_clase/img/picnicpicnic.png",
         "description": "¿Cómo se come cuando la disparidad lo hace todo tambalear?",
         "alt": "Proyecto 2"
     },
@@ -34,7 +34,7 @@
     {
         "titulo": "Ecos",
         "categoria": "diseño de experiencias",
-        "imagen": "https://matildeflvi.github.io/decima_clase/img/ecosfinal.jpg",
+        "imagen": "https://matildeflvi.github.io/decima_clase/img/ecosfinalfinal.png",
         "description": "Colaboración con el Hogar de Cristo, con el propósito de promover la expresión creativa de sus residentes.",
         "alt": "Proyecto 5"
     },
@@ -58,11 +58,12 @@
     {
         "titulo": "Azanita",
         "categoria": "diseño de productos",
-        "imagen": "https://matildeflvi.github.io/decima_clase/img/azanitafinal.jpg",
+        "imagen": "https://matildeflvi.github.io/decima_clase/img/azanitafinalfinal.png",
         "description": "Colaboración con CáscaraFoods, con el propósito de rediseñar estratégicamente sus productos.",
         "alt": "Proyecto 8"
     }
 ]
+
 
 
 
