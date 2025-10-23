@@ -31,3 +31,4 @@ async function datos(raw) {
 }
 
 datos("https://raw.githubusercontent.com/matildeflvi/decima_clase/refs/heads/main/datos.json");
+
