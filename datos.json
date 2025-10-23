@@ -10,7 +10,7 @@
     {
         "titulo": "WIM",
         "categoria": "diseño estratégico y textil",
-        "imagen": "https://matildeflvi.github.io/decima_clase/img/wimfinal.png",
+        "imagen": "https://matildeflvi.github.io/decima_clase/img/wim.png",
         "description": "Producto diseñado para reducir la fatiga en conductores de micro.",
         "alt": "Proyecto 2"
     },
@@ -18,7 +18,7 @@
     {
         "titulo": "Crick-Crack",
         "categoria": "diseño de juguetes",
-        "imagen": "https://matildeflvi.github.io/decima_clase/img/crickcrack.png",
+        "imagen": "https://matildeflvi.github.io/decima_clase/img/photocr.png",
         "description": "Colaboración con La Papelaria, con el propósito de brindar apoyo a niños con desafíos en el desarrollo de la motricidad fina.",
         "alt": "Proyecto 3"
     },
@@ -26,7 +26,7 @@
     {
         "titulo": "Ecos",
         "categoria": "diseño de experiencias",
-        "imagen": "https://matildeflvi.github.io/decima_clase/img/ecosfinalfinal.png",
+        "imagen": "https://matildeflvi.github.io/decima_clase/img/ecosfinal.png",
         "description": "Colaboración con el Hogar de Cristo, con el propósito de promover la expresión creativa de sus residentes.",
         "alt": "Proyecto 4"
     },
@@ -42,7 +42,7 @@
     {
         "titulo": "Book",
         "categoria": "diseño editorial",
-        "imagen": "https://matildeflvi.github.io/decima_clase/img/bookfinal.png",
+        "imagen": "https://matildeflvi.github.io/decima_clase/img/bookfinal01.png",
         "description": "Revista Recopilatoria.",
         "alt": "Proyecto 6"
     },
@@ -50,11 +50,12 @@
     {
         "titulo": "Azanita",
         "categoria": "diseño de productos",
-        "imagen": "https://matildeflvi.github.io/decima_clase/img/azanitafinalfinal.png",
+        "imagen": "https://matildeflvi.github.io/decima_clase/img/azanitafinal.png",
         "description": "Colaboración con CáscaraFoods, con el propósito de rediseñar estratégicamente sus productos.",
         "alt": "Proyecto 7"
     }
 ]
+
 
 
 
