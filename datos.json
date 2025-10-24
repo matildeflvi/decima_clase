@@ -2,53 +2,54 @@
     {
         "titulo": "Kimesai",
         "categoria": "diseño textil",
-        "imagen": "https://matildeflvi.github.io/decima_clase/img/kimesai.png",
+        "imagen": "https://matildeflvi.github.io/decima_clase/img/kimesai.webp",
         "description": "Proyecto inspirado en la película Nauticaa, que incorpora un personaje imaginario.",
         "alt": "Proyecto 1"
     },
     {
         "titulo": "WIM",
         "categoria": "diseño estratégico y textil",
-        "imagen": "https://matildeflvi.github.io/decima_clase/img/wim.png",
+        "imagen": "https://matildeflvi.github.io/decima_clase/img/wim.webp",
         "description": "Producto diseñado para reducir la fatiga en conductores de micro.",
         "alt": "Proyecto 2"
     },
     {
         "titulo": "Crick-Crack",
         "categoria": "diseño de juguetes",
-        "imagen": "https://matildeflvi.github.io/decima_clase/img/photocr.png",
+        "imagen": "https://matildeflvi.github.io/decima_clase/img/crickcrack.webp",
         "description": "Colaboración con La Papelaria, con el propósito de brindar apoyo a niños con desafíos en el desarrollo de la motricidad fina.",
         "alt": "Proyecto 3"
     },
     {
         "titulo": "Ecos",
         "categoria": "diseño de experiencias",
-        "imagen": "https://matildeflvi.github.io/decima_clase/img/ecosfinal.png",
+        "imagen": "https://matildeflvi.github.io/decima_clase/img/ecos.webp",
         "description": "Colaboración con el Hogar de Cristo, con el propósito de promover la expresión creativa de sus residentes.",
         "alt": "Proyecto 4"
     },
     {
         "titulo": "DONGUI",
         "categoria": "diseño de productos",
-        "imagen": "https://matildeflvi.github.io/decima_clase/img/donguifinal.png",
+        "imagen": "https://matildeflvi.github.io/decima_clase/img/dongui.webp",
         "description": "¡Pélalo como un plátano!",
         "alt": "Proyecto 5"
     },
     {
         "titulo": "Book",
         "categoria": "diseño editorial",
-        "imagen": "https://matildeflvi.github.io/decima_clase/img/bookfinal01.png",
+        "imagen": "https://matildeflvi.github.io/decima_clase/img/book.webp",
         "description": "Revista Recopilatoria.",
         "alt": "Proyecto 6"
     },
     {
         "titulo": "Azanita",
         "categoria": "diseño de productos",
-        "imagen": "https://matildeflvi.github.io/decima_clase/img/azanitafinal.png",
+        "imagen": "https://matildeflvi.github.io/decima_clase/img/azanita.webp",
         "description": "Colaboración con CáscaraFoods, con el propósito de rediseñar estratégicamente sus productos.",
         "alt": "Proyecto 7"
     }
 ]
+
 
 
 
